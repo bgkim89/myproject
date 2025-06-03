@@ -6,3 +6,7 @@ openai
 umap-learn
 scikit-learn
 pandas
+streamlit
+folium
+streamlit-folium
+
